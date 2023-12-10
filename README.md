@@ -1,10 +1,10 @@
-- <h1 align="center">Hi 👋, I'm James King</h1>
-<h3 align="center">I'm James King, a 30-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.</h3>
+- <h1 align="center">Hi 👋, Thanks for visiting my github</h1>
+<h3 align="center">My name is James King, and I'm a 30-year-old tech enthusiast who does web development, security research, and blockchain development. I'm passionate about contributing to open source projects and building great products.</h3>
 
 
 - 🔭 I’m a passionate fullstack developer.
 
-- 🌱 I’m currently developing a lot of website and mobile application.
+- 🌱 I have developed numerous websites, mobile, and blockchain applications so far.
 
 - 📫 How to reach me **james.king102809@gmail.com**
 

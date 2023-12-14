@@ -5,6 +5,8 @@
 - 🔭 I’m a passionate fullstack developer.
 
 - 🌱 I have developed numerous websites, mobile, and blockchain applications so far.
+  
+- 🐱‍👤 My portfolio site **https://portfolio-cito41uqt-james-kings-projects.vercel.app/**.
 
 - 📫 How to reach me **james.king102809@gmail.com**
 
